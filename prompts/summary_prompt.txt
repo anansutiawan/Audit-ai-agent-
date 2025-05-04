@@ -1,0 +1,1 @@
+Berikan ringkasan hasil audit dari output Slither berikut dan sarankan langkah mitigasi untuk setiap temuan:
